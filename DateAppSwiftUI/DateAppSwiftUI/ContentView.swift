@@ -4,9 +4,9 @@
 //
 //  Created by Shreyas Vilaschandra Bhike on 10/02/22.
 //
-//  MARK: The App Wizard
+//  MARK: TheCode5
 //  Instagram :
-//  MARK: @theappwizard2408
+//  MARK: @thecode5
 
 import SwiftUI
 
